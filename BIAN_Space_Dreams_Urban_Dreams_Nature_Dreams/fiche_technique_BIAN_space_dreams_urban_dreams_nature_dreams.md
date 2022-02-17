@@ -1,22 +1,46 @@
-# TITRE DE L'EUVRE
+# TITRE DE L'EUVRE :
 
-# NOM DE L'ARTISTE OU DE LA FIRME
+## - Space Dreams
+## - Urban Dreams
+## - Nature Dreams
 
-# ANNÉE DE RÉALISATION
+# ARTISTE :
+
+## Refik Anadol
+
+# ANNÉE DE RÉALISATION :
+
+### 2020
 
 # NOM DE L'ÉVÉNEMENT
 
-# LIEU DE MISE EN EXPOSITION
+## Biennal d'art numérique (BIAN)
 
-# DATE DE VOTRE VISITE
+# LIEU DE MISE EN EXPOSITION :
 
-# DESCRIPTION DE L'EUVRE
+### 2020, rue William, Montréal
+### Arsenal art contemporain
 
-# Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+# DATE DE VOTRE VISITE :
 
-# Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+### 09/02/2022
 
-# Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+-------------------------------------------------------------------------------------------
+
+# DESCRIPTION DE L'EUVRE :
+
+(mettre photo description)
+
+# Explications sur la mise en espace de l'oeuvre ou du dispositif :
+(texte à composer)
+
+# Liste des composantes et techniques de l'oeuvre ou du dispositif :
+(ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+
+# Liste des éléments nécessaires pour la mise en exposition :
+(ex. : crochets, sac de sable, câbles de soutien...)
+
+-------------------------------------------------------------------------------------------
 
 #  Expérience vécue :
 
@@ -25,8 +49,12 @@
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+
+
+-------------------------------------------------------------------------------------------
+
  
-# Références
+# Références :
  
 ## photographie de l'oeuvre ou du dispositif dans son ensemble
 ## photographies des composantes de l'oeuvre
