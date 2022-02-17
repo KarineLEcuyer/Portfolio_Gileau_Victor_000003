@@ -31,6 +31,8 @@
 
 (mettre photo description)
 
+![BIAN_decription_euvre.JPG](images/BIAN_description_euvre.JPG)
+
 # Explications sur la mise en espace de l'oeuvre ou du dispositif :
 (texte à composer)
 
