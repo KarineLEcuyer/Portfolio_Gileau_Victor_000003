@@ -37,7 +37,7 @@
 (texte à composer)
 L'oeuvre était exposer avec trois écrans 4k, il était a l'horisontale et rectangulaire. Placer les un à coté de l'autre sur un murs avec une distance de 30, 40 centimètres entre eux. Il était quelque centimétres au desu du sol (30 à 40cm). Le niveau des yeux arrive pour la plupars des gens un peut au dessu du millieu de l'oeuvre. L'estimation de la largeur de l'oeuvre est de 1 mètre et la hauteur de 1,40 mètre (ce ne sont que des estimation). Les écrans sont alimenter par des câbles cachés en bas de l'écran.
 
-
+![BIAN_decription_euvre.JPG](images/BIAN_description_euvre.JPG)
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif :
 (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
