@@ -27,9 +27,9 @@
 
 -------------------------------------------------------------------------------------------
 
-# DESCRIPTION DE L'EUVRE :
+# DESCRIPTION DE L'OEUVRE :
 
-(mettre photo description)
+(photo du cartel de l'oeuvre lors de son exposition dans le BIAN)
 
 ![BIAN_decription_euvre.JPG](images/BIAN_description_euvre.JPG)
 
