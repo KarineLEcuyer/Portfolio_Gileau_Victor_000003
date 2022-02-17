@@ -61,18 +61,20 @@ L'oeuvre était exposer avec trois écrans 4k, il était a l'horisontale et rect
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications :
 
+J'ai aimer le mouvement dans l'oeuvres, resemblant quelque peu a des vagues, certain était calme et d'autre agiter.
+
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications :
 
 
 -------------------------------------------------------------------------------------------
 
  
-# Références :
+## Références :
  
-## photographie de l'oeuvre ou du dispositif dans son ensemble
-## photographies des composantes de l'oeuvre
-## photographies des éléments nécessaires à sa mise en espace
-## photographie du cartel ou du panneau explicatif
-## autoportrait (photo) de vous avec l'oeuvre
-## croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-## possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+ photographie de l'oeuvre ou du dispositif dans son ensemble
+ photographies des composantes de l'oeuvre
+ photographies des éléments nécessaires à sa mise en espace
+ photographie du cartel ou du panneau explicatif
+ autoportrait (photo) de vous avec l'oeuvre
+ croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
+ possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
