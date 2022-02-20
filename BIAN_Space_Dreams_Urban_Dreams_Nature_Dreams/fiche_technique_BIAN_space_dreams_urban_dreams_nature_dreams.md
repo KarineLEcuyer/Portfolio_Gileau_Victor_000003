@@ -34,20 +34,17 @@
 ![BIAN_decription_euvre.JPG](images/BIAN_description_euvre.JPG)
 
 # Explications sur la mise en espace de l'oeuvre ou du dispositif :
-(texte à composer)
 
 L'œuvre était exposé avec trois écrans 4k, il était à l'horizontale et rectangulaire. Placer les uns à côté de l'autre sur un mur avec une distance de 30, 40 centimètres entre eux. Il était quelques centimètres au-dessus du sol (30 à 40cm). Le niveau des yeux arrive pour la plupart des gens un peu au-dessus du milieu de l'œuvre. L'estimation de la largeur de l'œuvre est de 1 mètre et la hauteur de 1,40 mètre (ce ne sont que des estimation). Les écrans sont alimentés par des câbles cachés en bas de l'écran.
 
 ![BIAN_video_ensemble_oeuvre.MOV](videos/BIAN_video_ensemble_oeuvre.MOV)
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif :
-(ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
 - Écrans 4k
 - Câbles
 
 # Liste des éléments nécessaires pour la mise en exposition :
-(ex. : crochets, sac de sable, câbles de soutien...)
 
 - Soutien d'écran
 - Mur
@@ -76,7 +73,7 @@ Un aspect que je changerais serait la grandeur des écrans je les ferait plus gr
 
 - (Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
 - Info sur l'oeuvre : https://www.elektramontreal.ca/bian2021-refik-anadol?lang=fr
-- Info sur artiste : https://refikanadol.com/about
+- Info sur l'artiste : https://refikanadol.com/about
 
 ## Références :
  
