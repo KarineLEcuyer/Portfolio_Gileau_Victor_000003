@@ -88,5 +88,5 @@ Un aspect que je changerais serait la grandeur des écrans je les ferait plus gr
 ![BIAN_decription_euvre.JPG](images/BIAN_description_euvre.JPG)
 
 - autoportrait (photo) de vous avec l'oeuvre (je ne l'ai pas prise)
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation) (croquie_oeuvre.JPG)
+- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci 
