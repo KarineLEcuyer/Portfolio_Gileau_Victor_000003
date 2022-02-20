@@ -63,14 +63,21 @@ Mon expérience avec l’œuvre était moins interactive, mais plus admirative. 
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications :
 
-J'ai aimer le mouvement dans l'oeuvres, resemblant quelque peu a des vagues, certain était calme et d'autre agiter.
+J'ai aimé le mouvement dans l'œuvres, ressemblant quelque peu a des vagues, certain était calme et d'autre agiter. J'aimais surtout celle du milieu (écran du milieu) celui-là était Urban dreams, le mouvement était lent mais les images prenaient la forme de maison, de ville et d'appartement pour ensuit se transformer en une autre image (100 millions d'images dans Urban Dreams), c'était un peu comme une peinture toujours changeante avec des couleurs comme rouge, bleu, vert et autre. Le fait d'avoir réussi à faire mouvoir des millions d'image en même temps et que sa donne un aussi beau résultat est vraiment incroyable et intéressant. C'est donc selon moi les mouvements sur l'œuvre qui mon charmer.
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications :
 
+Un aspect que je changerais serait la grandeur des écrans je les ferait plus grand ou projeter par un projecteur si possible, car il est difficile d'apprécier l'œuvre dans de si petit écran, le voir en plus grand aiderais grandement à l'appréciation de l'œuvre et le rendrait plus intéressante à mon avis. De plus, l'œuvre sur le premier écran nommé Space Dreams n'a pas une Loop parfaite donc à la fin sa tombe dans le noir et recommence ce qui peut enlever l'intérêt a un admirateur de l'œuvre, lorsqu'elle s'arrête soudainement.
 
 -------------------------------------------------------------------------------------------
 
- 
+
+## Source :
+
+- Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain
+- Info sur l'oeuvre : https://www.elektramontreal.ca/bian2021-refik-anadol?lang=fr
+- Info sur artiste : https://refikanadol.com/about
+
 ## Références :
  
 - photographie de l'oeuvre ou du dispositif dans son ensemble
