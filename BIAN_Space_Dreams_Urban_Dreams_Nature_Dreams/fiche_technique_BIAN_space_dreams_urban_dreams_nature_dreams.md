@@ -87,30 +87,30 @@ Un aspect que je changerais serait la grandeur des écrans je les ferait plus gr
 
 ### photographies des composantes de l'oeuvre 
 
-(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain) (câble)
 ![BIAN_arriere_cable_ecran.JPG](images/BIAN_arriere_cable_ecran.JPG)
 
-(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain) (soutien d'écran)
 ![BIAN_arriere_ecran_1.JPG](images/BIAN_arriere_ecran_1.JPG)
 
-(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain) (écran)
 ![BIAN_Nature_Dreams_photo.JPG](images/BIAN_Nature_Dreams_photo.JPG)
 
 ### photographies des éléments nécessaires à sa mise en espace
 
-(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain) (mur, soutien d'écran)
 ![BIAN_arriere_ecran_1.JPG](images/BIAN_arriere_ecran_1.JPG)
 
 ### photographie du cartel ou du panneau explicatif 
 
-(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain) (le cartel)
 ![BIAN_decription_euvre.JPG](images/BIAN_description_euvre.JPG)
 
 ### autoportrait (photo) de vous avec l'oeuvre (je ne l'ai pas prise)
 
-### croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
+### croquis de la mise en espace
 
-(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain) (corqui de la mise en place)
 ![croquie_oeuvre.JPG](images/croquie_oeuvre.JPG)
 
 ### possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci 
