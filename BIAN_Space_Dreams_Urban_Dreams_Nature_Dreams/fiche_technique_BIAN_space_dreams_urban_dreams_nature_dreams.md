@@ -80,10 +80,13 @@ Un aspect que je changerais serait la grandeur des écrans je les ferait plus gr
 
 ## Références :
  
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
-- autoportrait (photo) de vous avec l'oeuvre
+- photographie de l'oeuvre ou du dispositif dans son ensemble (BIAN_ensemble_oeuvre_photo.JPG)
+- photographies des composantes de l'oeuvre (BIAN_arriere_cable_ecran.JPG) (BIAN_arriere_ecran_1.JPG) (BIAN_Nature_Dreams_photo.JPG)
+- photographies des éléments nécessaires à sa mise en espace (BIAN_arriere_ecran_1.JPG)
+- photographie du cartel ou du panneau explicatif 
+
+![BIAN_decription_euvre.JPG](images/BIAN_description_euvre.JPG)
+
+- autoportrait (photo) de vous avec l'oeuvre (je ne l'ai pas prise)
 - croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
 - possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
