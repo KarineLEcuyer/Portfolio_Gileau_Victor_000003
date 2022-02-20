@@ -29,7 +29,7 @@
 
 # DESCRIPTION DE L'OEUVRE :
 
-(photo du cartel de l'oeuvre lors de son exposition dans le BIAN)
+(photo du cartel de l'oeuvre lors de son exposition dans le Metamorphosis - Biennal d'art numérique (BIAN))
 
 ![BIAN_decription_euvre.JPG](images/BIAN_description_euvre.JPG)
 
