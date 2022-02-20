@@ -74,19 +74,49 @@ Un aspect que je changerais serait la grandeur des écrans je les ferait plus gr
 
 ## Source :
 
-- Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain
+- (Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
 - Info sur l'oeuvre : https://www.elektramontreal.ca/bian2021-refik-anadol?lang=fr
 - Info sur artiste : https://refikanadol.com/about
 
 ## Références :
  
-- photographie de l'oeuvre ou du dispositif dans son ensemble (BIAN_ensemble_oeuvre_photo.JPG)
-- photographies des composantes de l'oeuvre (BIAN_arriere_cable_ecran.JPG) (BIAN_arriere_ecran_1.JPG) (BIAN_Nature_Dreams_photo.JPG)
-- photographies des éléments nécessaires à sa mise en espace (BIAN_arriere_ecran_1.JPG)
-- photographie du cartel ou du panneau explicatif 
+### photographie de l'oeuvre ou du dispositif dans son ensemble 
 
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+![BIAN_ensemble_oeuvre_photo.JPG](images/BIAN_ensemble_oeuvre_photo.JPG)
+
+### photographies des composantes de l'oeuvre 
+
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+![BIAN_arriere_cable_ecran.JPG](images/BIAN_arriere_cable_ecran.JPG)
+
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+![BIAN_arriere_ecran_1.JPG](images/BIAN_arriere_ecran_1.JPG)
+
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+![BIAN_Nature_Dreams_photo.JPG](images/BIAN_Nature_Dreams_photo.JPG)
+
+### photographies des éléments nécessaires à sa mise en espace
+
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+![BIAN_arriere_ecran_1.JPG](images/BIAN_arriere_ecran_1.JPG)
+
+### photographie du cartel ou du panneau explicatif 
+
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
 ![BIAN_decription_euvre.JPG](images/BIAN_description_euvre.JPG)
 
-- autoportrait (photo) de vous avec l'oeuvre (je ne l'ai pas prise)
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation) (croquie_oeuvre.JPG)
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci 
+### autoportrait (photo) de vous avec l'oeuvre (je ne l'ai pas prise)
+
+### croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
+
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+![croquie_oeuvre.JPG](images/croquie_oeuvre.JPG)
+
+### possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci 
+
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+![BIAN_video_ensemble_oeuvre_2.MOV](videos/BIAN_video_ensemble_oeuvre_2.MOV)
+
+(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
+![BIAN_video_ensemble_oeuvre.MOV](videos/BIAN_video_ensemble_oeuvre.MOV)
