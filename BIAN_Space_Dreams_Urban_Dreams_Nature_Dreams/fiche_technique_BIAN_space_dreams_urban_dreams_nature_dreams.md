@@ -36,7 +36,7 @@
 # Explications sur la mise en espace de l'oeuvre ou du dispositif :
 (texte à composer)
 
-L'oeuvre était exposer avec trois écrans 4k, il était a l'horisontale et rectangulaire. Placer les un à coté de l'autre sur un murs avec une distance de 30, 40 centimètres entre eux. Il était quelque centimétres au desu du sol (30 à 40cm). Le niveau des yeux arrive pour la plupars des gens un peut au dessu du millieu de l'oeuvre. L'estimation de la largeur de l'oeuvre est de 1 mètre et la hauteur de 1,40 mètre (ce ne sont que des estimation). Les écrans sont alimenter par des câbles cachés en bas de l'écran.
+L'œuvre était exposé avec trois écrans 4k, il était à l'horizontale et rectangulaire. Placer les uns à côté de l'autre sur un mur avec une distance de 30, 40 centimètres entre eux. Il était quelques centimètres au-dessus du sol (30 à 40cm). Le niveau des yeux arrive pour la plupart des gens un peu au-dessus du milieu de l'œuvre. L'estimation de la largeur de l'œuvre est de 1 mètre et la hauteur de 1,40 mètre (ce ne sont que des estimation). Les écrans sont alimentés par des câbles cachés en bas de l'écran.
 
 ![BIAN_video_ensemble_oeuvre.MOV](videos/BIAN_video_ensemble_oeuvre.MOV)
 
@@ -58,6 +58,8 @@ L'oeuvre était exposer avec trois écrans 4k, il était a l'horisontale et rect
 #  Expérience vécue :
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc. :
+
+Mon expérience avec l’œuvre était moins interactive, mais plus admirative. L’œuvre est une vidéo de millions d’images se déplaçant ensemble sur un seul écran, j’ai donc trouvé intéressant de voir le mouvement presque organique que prenait les images qui formais des formes en cube et des couleurs vives. Il y avait aucun geste à poser la vidéo jouais à répétition il y avait 3 écrans un durait 6 :51 minutes et les autres 8 :00 minutes et il fessait des Loop donc il y avait aucune interactivité.
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications :
 
