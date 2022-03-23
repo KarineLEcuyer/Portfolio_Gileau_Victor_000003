@@ -24,7 +24,7 @@ La salle Alfred-Pellan
 
 # DESCRIPTION DE L'EUVRE
 
-![]()
+![description_oeuvre_triangle_carre_cercle.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/description_oeuvre_triangle_carre_cercle.JPG)
 
 Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
