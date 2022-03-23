@@ -24,7 +24,7 @@ La salle Alfred-Pellan
 
 # DESCRIPTION DE L'EUVRE
 
-
+![]()
 
 Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
