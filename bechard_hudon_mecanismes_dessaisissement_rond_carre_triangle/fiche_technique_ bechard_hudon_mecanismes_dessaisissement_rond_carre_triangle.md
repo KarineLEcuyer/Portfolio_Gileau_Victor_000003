@@ -1,16 +1,30 @@
-TITRE DE L'EUVRE
+# TITRE DE L'EUVRE
 
-NOM DE L'ARTISTE OU DE LA FIRME
+Mécanismes de dessaisissement(rond, carré, triangle)
 
-ANNÉE DE RÉALISATION
+# NOM DE L'ARTISTE OU DE LA FIRME
 
-NOM DE L'ÉVÉNEMENT
+Le duo Béchard Hudon
 
-LIEU DE MISE EN EXPOSITION
+# ANNÉE DE RÉALISATION
 
-DATE DE VOTRE VISITE
+2019 - 2021
 
-DESCRIPTION DE L'EUVRE
+# NOM DE L'ÉVÉNEMENT
+
+Béchard Hudon - Configurations du sensible
+
+# LIEU DE MISE EN EXPOSITION
+
+La salle Alfred-Pellan
+
+# DATE DE VOTRE VISITE
+
+17 mars 2022
+
+# DESCRIPTION DE L'EUVRE
+
+
 
 Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
