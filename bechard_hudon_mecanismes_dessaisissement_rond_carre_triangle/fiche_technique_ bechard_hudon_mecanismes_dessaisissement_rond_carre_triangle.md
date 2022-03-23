@@ -24,13 +24,14 @@ La salle Alfred-Pellan
 
 # DESCRIPTION DE L'EUVRE
 
+(photo prise durent ma visite pour aller voir l'exposition)
 ![description_oeuvre_triangle_carre_cercle.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/description_oeuvre_triangle_carre_cercle.JPG)
 
-Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+# Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
-Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+# Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
-Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+# Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
 
 Expérience vécue :
