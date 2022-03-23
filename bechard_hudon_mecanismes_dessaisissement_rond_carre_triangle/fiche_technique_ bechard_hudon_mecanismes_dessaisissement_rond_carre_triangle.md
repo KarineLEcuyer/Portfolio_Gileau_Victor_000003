@@ -16,7 +16,7 @@ Béchard Hudon - Configurations du sensible
 
 # LIEU DE MISE EN EXPOSITION
 
-La salle Alfred-Pellan
+La maison des arts de Laval (la salle Alfred-Pellan)
 
 # DATE DE VOTRE VISITE
 
