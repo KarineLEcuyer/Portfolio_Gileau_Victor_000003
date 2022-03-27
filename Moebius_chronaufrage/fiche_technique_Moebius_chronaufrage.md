@@ -28,6 +28,7 @@ Studio C-1712, 475 Blvd de l'Avenir, Laval
 
 # DESCRIPTION DE L'EUVRE
 
+(source site web de l'évenement et de l'oeuvre (https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html))
 ![description_oeuvre_chronaufrage.PNG](medias_Chronaufrage/description_oeuvre_chronaufrage.PNG)
 
 # Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
