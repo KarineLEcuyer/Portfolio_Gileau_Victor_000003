@@ -46,6 +46,8 @@ L'œuvre est disposée à 1 mètre au-dessus du sol et est accrochée aux murs. 
 - les detecteurs de mouvements
 - un murs
 
+source : https://bechardhudon.com/project/mecanismes-de-dessaisissement_divestment-mechanisms_2020/
+
 Expérience vécue :
 
 Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
