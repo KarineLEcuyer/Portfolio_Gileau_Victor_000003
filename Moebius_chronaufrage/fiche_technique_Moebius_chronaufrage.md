@@ -38,8 +38,18 @@ L'œuvre se trouvait comme ceci. Il y avait 4 cadres placer en ordre de droite �
 # Liste des composantes et techniques de l'oeuvre ou du dispositif :
 (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
+- 1 projecteur
+- Éclérage
+- Caméras qui détecte les mouvements (kinect)
+
 # Liste des éléments nécessaires pour la mise en exposition :
 (ex. : crochets, sac de sable, câbles de soutien...)
+
+- fils de de pêche
+- cadres blanc de fromes diférente
+- murs blanc
+- stiromouse noirs 
+
 
 # Expérience vécue :
 
