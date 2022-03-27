@@ -1,16 +1,34 @@
 # TITRE DE L'EUVRE
 
+Chronaufrage
+
 # NOM DE L'ARTISTE OU DE LA FIRME
+
+- Maloney Khim
+- Sounthida Kong
+- Olivier Lalonde
+- Rebecca Pilotte
+- Émilie Fontaine
 
 # ANNÉE DE RÉALISATION
 
+2022
+
 # NOM DE L'ÉVÉNEMENT
+
+Moebius (Projets synthèse des finissants en techniques d'intégration multimédia du collège Montmorency)
 
 # LIEU DE MISE EN EXPOSITION
 
+Studio C-1712, 475 Blvd de l'Avenir, Laval
+
 # DATE DE VOTRE VISITE
 
+24 mars 2022
+
 # DESCRIPTION DE L'EUVRE
+
+
 
 # Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
