@@ -28,7 +28,7 @@ Studio C-1712, 475 Blvd de l'Avenir, Laval
 
 # DESCRIPTION DE L'EUVRE
 
-![]()
+![description_oeuvre_chronaufrage.PNG](medias_Chronaufrage/description_oeuvre_chronaufrage.PNG)
 
 # Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
