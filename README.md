@@ -3,4 +3,4 @@
 Contient :
 
 - l'oeuvre du BIAN nommé Space Dreams, Urban Dreams, Nature Dreams
-- l'oeuvre de l'exposition Béchard Hudon nommé Mécanismes dessaisissement (ron, carré, triangle)
+- l'oeuvre de l'exposition Béchard Hudon nommé Mécanismes de dessaisissement (ron, carré, triangle)
