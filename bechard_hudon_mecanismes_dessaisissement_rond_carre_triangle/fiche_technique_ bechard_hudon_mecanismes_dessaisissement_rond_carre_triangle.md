@@ -1,6 +1,6 @@
 # TITRE DE L'EUVRE
 
-Mécanismes de dessaisissement(rond, carré, triangle)
+Mécanismes de dessaisissement (rond, carré, triangle)
 
 # NOM DE L'ARTISTE OU DE LA FIRME
 
