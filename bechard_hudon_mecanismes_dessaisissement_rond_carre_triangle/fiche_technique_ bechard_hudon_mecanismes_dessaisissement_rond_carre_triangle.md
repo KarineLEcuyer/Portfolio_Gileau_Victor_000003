@@ -60,6 +60,7 @@ J’ai aimé les moments où les deux formes soit carré, rond ou triangles vena
 
 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications :
 
+Ce que je changerais serait, la grosseur de l’œuvre, si l’œuvre est plus grosse, il sera plus facile de l’apprécier et les illusions optiques seront encore plus visibles que de la façon dont ils sont en ce moment.
 
 Références
 - photographie de l'oeuvre ou du dispositif dans son ensemble
