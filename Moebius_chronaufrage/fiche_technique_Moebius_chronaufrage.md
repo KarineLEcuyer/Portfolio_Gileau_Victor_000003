@@ -55,6 +55,8 @@ L'œuvre se trouvait comme ceci. Il y avait 4 cadres placer en ordre de droite �
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
+Lors de mon expérience de l’œuvre je pouvais interagir avec l’œuvre en fessant des mouvements devant l’œuvre varient de mouvement de droit à gauche, de vers l’avant et vers l’arrière et des mouvements en zigzag. Il y avait quatre cadres avec lesquels je pouvais interagir, le premier proposait de faire des zigzags devant l’œuvre pourvoir la femme vêtue d’une robe blanche et des cheveux blancs. Le deuxième, je montrais la même femme qui arrête des points d’eau de se vider et on peut se déplacer vers l’avant et par l’arrière pour changer ou la femme porte son attention pour bloquer les points d’eau. Le troisième on peut se déplacer de droite à gauche pour changer la trajectoire de la même femme qui tombe dans l’eau. Le dernier permet de voir la femme en paix en dehors de l’eau lorsque je m’approchais de l’œuvre.
+
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
