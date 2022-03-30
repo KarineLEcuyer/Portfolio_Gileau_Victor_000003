@@ -56,7 +56,7 @@ Mon expérience avec l’œuvre était admirative. La seule interaction possible
 
 ❤️ Ce qui vous a plu, vous a donné des idées et justifications :
 
-
+J’ai aimé les moments où les deux formes soit carré, rond ou triangles venait en contacte il créait des illusions optiques avec les motifs qui se trouvais sur les formes. Ça donnait l’impression que les formes allaient à de plus grande vitesse, même s’il allait très lentement. Les lumières ajouter aussi à ma capaciter d’attention vers l’œuvre, ils mettent en valeurs l’œuvre.
 
 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications :
 
