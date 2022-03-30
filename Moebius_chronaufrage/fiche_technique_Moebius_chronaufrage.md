@@ -63,6 +63,7 @@ Ce que j’ai aimé de l’œuvre est ceci ; j’ai aimé l’éclairage qui mon
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
+Ce que j’aurai changé serait la façon dont l’histoire qu’il voulait représenter, différemment. Le message peut-être difficile à comprendre, donc j’aurais surement rajouté de courtes phrases dans les cadres qui pourraient apparaitre lorsqu’il y a l’interaction d’un spectateur. Les phrases en question auraient pu aider avec la compréhension du message.
 
 # Références
 
