@@ -59,6 +59,8 @@ Lors de mon expérience de l’œuvre je pouvais interagir avec l’œuvre en fe
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
 
+Ce que j’ai aimé de l’œuvre est ceci ; j’ai aimé l’éclairage qui montrait directement où aller et les tapes à terre qui montraient quel mouvement faire pour interagir avec l’œuvre. De plus, j’ai aimé la façon dont il fallait interagir avec l’œuvre, ça ne demande pas beaucoup et peut-être expérimentées plusieurs fois surtout pour des enfants. 
+
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
 
