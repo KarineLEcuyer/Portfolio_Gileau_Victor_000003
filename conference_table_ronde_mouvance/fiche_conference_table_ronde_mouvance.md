@@ -9,4 +9,6 @@ La deuxième présentation montrait le parcoure d’Olivia con passage à traver
 Elle a commencé avec des photos de modèles avec des masques blancs dans des lieux où il y a eu de grands problèmes ou avec une lourdeur.
 Elle a par la suit commencer le 3D en même temps que le VR pour créer des œuvres doter de nouvelle expérience.
 Pour finir a aujourd’hui ou elle a commencé à créer une œuvre VR et avec du 360
-degrés qui montrerait l’interacteur ou le met dans une situation ou-il ce désintégré dans l’eau, le but de l’expérience de créer quelque chose de nouveau. 
+degrés qui montrerait l’interacteur ou le met dans une situation ou-il ce désintégré dans l’eau, le but de l’expérience de créer quelque chose de nouveau.
+
+254 mots
