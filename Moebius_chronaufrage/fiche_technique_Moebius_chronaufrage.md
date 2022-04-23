@@ -37,7 +37,7 @@ L'œuvre se trouvait comme ceci. Il y avait 4 cadres placer en ordre de droite �
 
 ![photo_oeuvre_chronaufrage.JPG](medias_Chronaufrage/photo_oeuvre_chronaufrage.JPG)
 
-![description_oeuvre_chronaufrage.PNG](medias_Chronaufrage/description_oeuvre_chronaufrage.PNG)
+![photo_oeuvre_chronaufrage_indication.JPG](medias_Chronaufrage/photo_oeuvre_chronaufrage_indication.JPG)
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif :
 (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
