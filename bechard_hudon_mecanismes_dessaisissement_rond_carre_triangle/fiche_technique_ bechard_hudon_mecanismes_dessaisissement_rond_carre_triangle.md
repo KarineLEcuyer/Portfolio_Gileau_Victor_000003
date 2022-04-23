@@ -38,14 +38,20 @@ L'œuvre est disposée à 1 mètre au-dessus du sol et est accrochée aux murs. 
 - système électromécanique (fait bouger l'oeuvre)
 - Les deux carrés, les triangles et les ronds
 - le soutien de l'oeuvre
+![description_oeuvre_triangle_carre_cercle.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/description_oeuvre_triangle_carre_cercle.JPG)
+![description_oeuvre_triangle_carre_cercle.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/description_oeuvre_triangle_carre_cercle.JPG)
+![description_oeuvre_triangle_carre_cercle.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/description_oeuvre_triangle_carre_cercle.JPG)
 
 # Liste des éléments nécessaires pour la mise en exposition :
 
 - les câbles
 - les detecteurs de mouvements
 - un murs
+![description_oeuvre_triangle_carre_cercle.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/description_oeuvre_triangle_carre_cercle.JPG)
+![description_oeuvre_triangle_carre_cercle.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/description_oeuvre_triangle_carre_cercle.JPG)
+![description_oeuvre_triangle_carre_cercle.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/description_oeuvre_triangle_carre_cercle.JPG)
 
-source : https://bechardhudon.com/project/mecanismes-de-dessaisissement_divestment-mechanisms_2020/
+source information : https://bechardhudon.com/project/mecanismes-de-dessaisissement_divestment-mechanisms_2020/
 
 # Expérience vécue :
 
