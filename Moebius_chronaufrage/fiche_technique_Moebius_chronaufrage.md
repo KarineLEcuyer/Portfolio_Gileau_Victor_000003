@@ -53,7 +53,9 @@ L'œuvre se trouvait comme ceci. Il y avait 4 cadres placer en ordre de droite �
 - fils de de pêche
 - cadres blanc de fromes diférente
 - murs blanc
-- stiromouse noirs 
+- stiromouse noirs
+(image du site de l'oeuvre voici le lien : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
+![photo_oeuvre_chronaufrage_soutien.jpg](medias_Chronaufrage/photo_oeuvre_chronaufrage_soutien.jpg)
 
 
 # Expérience vécue :
