@@ -43,7 +43,7 @@ L'œuvre se trouvait comme ceci. Il y avait 4 cadres placer en ordre de droite �
 (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
 - 1 projecteur
-![description_oeuvre_chronaufrage.PNG](medias_Chronaufrage/description_oeuvre_chronaufrage.PNG)
+![photo_oeuvre_chronaufrage_projecteur.JPG](medias_Chronaufrage/photo_oeuvre_chronaufrage_projecteur.JPG)
 - Éclérage
 - Caméras qui détecte les mouvements (kinect)
 
