@@ -38,9 +38,9 @@ L'œuvre est disposée à 1 mètre au-dessus du sol et est accrochée aux murs. 
 - système électromécanique (fait bouger l'oeuvre)
 - Les deux carrés, les triangles et les ronds
 - le soutien de l'oeuvre
-![description_oeuvre_triangle_carre_cercle.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/description_oeuvre_triangle_carre_cercle.JPG)
-![description_oeuvre_triangle_carre_cercle.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/description_oeuvre_triangle_carre_cercle.JPG)
-![description_oeuvre_triangle_carre_cercle.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/description_oeuvre_triangle_carre_cercle.JPG)
+![oeuvre_carre_photo_cables_mecanisme.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/oeuvre_carre_photo_cables_mecanisme.JPG)
+![oeuvre_cercle_photo_cables_mecanismes.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/oeuvre_cercle_photo_cables_mecanismes.JPG)
+![oeuvre_triangle_photo_cables_mecanismes.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/oeuvre_triangle_photo_cables_mecanismes.JPG)
 
 # Liste des éléments nécessaires pour la mise en exposition :
 
