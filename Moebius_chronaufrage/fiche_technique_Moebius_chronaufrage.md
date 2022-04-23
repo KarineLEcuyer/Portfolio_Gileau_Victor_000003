@@ -53,9 +53,9 @@ L'œuvre se trouvait comme ceci. Il y avait 4 cadres placer en ordre de droite �
 (ex. : crochets, sac de sable, câbles de soutien...)
 
 - fils de de pêche
-- cadres blanc de fromes diférente
+- cadres blanc de formes différente
 - murs blanc
-- stiromouse noirs
+- styromousse noirs
 (image du site de l'oeuvre voici le lien : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
 ![photo_oeuvre_chronaufrage_soutien.jpg](medias_Chronaufrage/photo_oeuvre_chronaufrage_soutien.jpg)
 
