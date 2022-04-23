@@ -40,7 +40,7 @@ L'œuvre se trouvait comme ceci. Il y avait 4 cadres placer en ordre de droite �
 ![photo_oeuvre_chronaufrage_indication.JPG](medias_Chronaufrage/photo_oeuvre_chronaufrage_indication.JPG)
 
 ![photo_plan_oeuvre_chronaufrage.jpg](medias_Chronaufrage/photo_plan_oeuvre_chronaufrage.jpg)
-(la taille de l'interacteur n,est pas 1,50m mais 1,75m)
+(la taille de l'interacteur n'est pas 1,50m mais 1,75m)
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif :
 (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
