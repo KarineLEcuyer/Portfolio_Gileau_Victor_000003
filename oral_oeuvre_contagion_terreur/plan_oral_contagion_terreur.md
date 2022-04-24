@@ -10,7 +10,28 @@ Un plan de votre présentation orale intégré à votre portfolio (plan_oral.md)
 
 # Développement :
 
-## Informations sur l'oeuvre et le lieu d'exposition (Titre, Nom de l'artiste, Année de réalisation, Nom de l'exposition ou de l'événement, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
+## Informations sur l'oeuvre et le lieu d'exposition :
+
+Titre : Contagion de la terreur
+
+Artiste/concepteur :
+- Laura Poitras (collaboration)
+- Praxis Films (collaboration)
+- Brian Eno (sonification de données)
+- Edward Snowden (narrateur)
+- Sarah Sun (son)
+- Bethany Edgoose (vidéo)
+- Exposition de Forensic Architecture
+
+Année de réalisation : 2021
+
+Nom de l'exposition ou de l'événement : Contagion de la terreur
+
+Lieu de mise en exposition + Infos sur le lieu :
+1, Place Ville Marie, Montréal
+C'est au musée d'art contemprain de montréal
+
+Date de votre visite : 26 mars 2022 à 11h
 
 ## Présentation détaillée de l'oeuvre (description, mise en espace, composantes, éléments)
 
