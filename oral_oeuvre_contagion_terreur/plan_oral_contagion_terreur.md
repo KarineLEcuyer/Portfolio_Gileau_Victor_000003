@@ -27,9 +27,10 @@ Année de réalisation : 2021
 
 Nom de l'exposition ou de l'événement : Contagion de la terreur
 
-Lieu de mise en exposition + Infos sur le lieu :
+Lieu de mise en exposition :
 1, Place Ville Marie, Montréal
-C'est au musée d'art contemprain de montréal
+
+Info sur le lieu : C'est au musée d'art contemprain de montréal, plus d'infomration avec ce lien (https://macm.org/collections/a-propos/)
 
 Date de votre visite : 26 mars 2022 à 11h
 
