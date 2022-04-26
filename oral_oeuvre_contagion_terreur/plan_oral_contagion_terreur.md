@@ -12,7 +12,8 @@ Un plan de votre présentation orale intégré à votre portfolio (plan_oral.md)
 
 ## Informations sur l'oeuvre et le lieu d'exposition :
 
-Titre : Contagion de la terreur
+Titre :
+Contagion de la terreur
 
 Artiste/concepteur :
 - Laura Poitras (collaboration)
@@ -23,16 +24,20 @@ Artiste/concepteur :
 - Bethany Edgoose (vidéo)
 - Exposition de Forensic Architecture
 
-Année de réalisation : 2021
+Année de réalisation :
+2021
 
-Nom de l'exposition ou de l'événement : Contagion de la terreur
+Nom de l'exposition ou de l'événement :
+Contagion de la terreur
 
 Lieu de mise en exposition :
 1, Place Ville Marie, Montréal
 
-Info sur le lieu : C'est au musée d'art contemprain de montréal, plus d'infomration avec ce lien (https://macm.org/collections/a-propos/)
+Info sur le lieu :
+C'est au musée d'art contemprain de montréal, plus d'infomration avec ce lien (https://macm.org/collections/a-propos/)
 
-Date de votre visite : 26 mars 2022 à 11h
+Date de votre visite :
+26 mars 2022 à 11h
 
 ## Présentation détaillée de l'oeuvre (description, mise en espace, composantes, éléments)
 
