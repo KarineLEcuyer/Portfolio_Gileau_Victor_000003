@@ -45,7 +45,7 @@ Date de votre visite :
 
 ## Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées + Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
 
-## Liens avec autres oeuvres et expériences multimédias découvertes cette session
+## Liens avec autres oeuvres et expériences multimédias découvertes cette session 
 
 # Conclusion :
 
