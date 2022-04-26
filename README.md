@@ -6,3 +6,4 @@ Contient :
 - l'oeuvre de l'exposition Béchard Hudon nommé Mécanismes de dessaisissement (ron, carré, triangle)
 - L'oeuvre Chronaufrage de l'exposition Moebius
 - Conférence table ronde mouvance
+- Plan oral sur l'oeuvre Contagion de la terreur
