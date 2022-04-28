@@ -43,7 +43,17 @@ La salle 3, est à la sortie de la salle 2 qui est son entré aussi. Des informa
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif : (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
+- 3 Projecteurs
+- Des projecteurs lumières
+- 8 écrans
+- capteur de mouvment
+- outil avec écouteurs
+
 # Liste des éléments nécessaires pour la mise en exposition : (ex. : crochets, sac de sable, câbles de soutien...)
+
+- mur de vitre
+- 8 soutiens d'écrans
+- des sièges
 
 #  Expérience vécue :
 
