@@ -30,6 +30,8 @@ Contagion de la terreur
 
 # DESCRIPTION DE L'EUVRE :
 
+media_oral/photo_salle3/photo5_contagion_terreur_salle3_texte_info3.JPG
+
 # Explications sur la mise en espace de l'oeuvre ou du dispositif : (texte à composer)
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif : (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
