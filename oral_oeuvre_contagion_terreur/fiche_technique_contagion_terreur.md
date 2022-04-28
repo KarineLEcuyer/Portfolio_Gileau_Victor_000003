@@ -31,7 +31,13 @@ Contagion de la terreur
 # DESCRIPTION DE L'EUVRE :
 
 ![photo5_contagion_terreur_salle3_texte_info3.JPG](media_oral/photo_salle3/photo5_contagion_terreur_salle3_texte_info3.JPG)
-(photo prise durant visite de l'oeuvre)
+(photo prise durant visite de l'oeuvre : décrit contagion de la terreur)
+
+![photo_contagion_terreur_salle1_texte.JPG](media_oral/photo_salle1/photo_contagion_terreur_salle1_texte.JPG)
+(photo prise durant visite de l'oeuvre : décrit oeuvre dans la salle 1)
+
+
+
 
 # Explications sur la mise en espace de l'oeuvre ou du dispositif :
 
