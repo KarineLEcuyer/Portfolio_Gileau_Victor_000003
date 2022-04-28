@@ -110,10 +110,4 @@ Un aspect que je changerais serait la grandeur des écrans je les ferait plus gr
 (Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain) (corqui de la mise en place)
 ![croquie_oeuvre.JPG](images/croquie_oeuvre.JPG)
 
-### possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci 
 
-(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
-![BIAN_video_ensemble_oeuvre_2.MOV](videos/BIAN_video_ensemble_oeuvre_2.MOV)
-
-(Photos et vidéos prise à Metamorphosis - Biennal d'art numérique (BIAN) à l'Arsenal art contemporain)
-![BIAN_video_ensemble_oeuvre.MOV](videos/BIAN_video_ensemble_oeuvre.MOV)
