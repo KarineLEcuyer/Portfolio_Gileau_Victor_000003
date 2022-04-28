@@ -81,5 +81,11 @@ Pour conclure, l’œuvre Contagion de la terreur, avait 3 salles en tout comme 
 
 ## Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session
 
+Le travail des élèves qui finis leur étude en multimédia était inspirant par les effort entrepris pour se rendre au résultat qui est leurs œuvres du Moebius, c’est très inspirant pour un élève voulant se rendre à cet objectif comme moi.
 
+# Sources :
 
+- Lien MAC : https://macm.org
+- Lien contagion de la terreur : https://macm.org/expositions/contagion-de-la-terreur/
+- Lien compagnie enquête contagion de la terreur : https://forensic-architecture.org
+- Lien enquête contagion de la terreur plus précis : https://forensic-architecture.org/investigation/digital-violence-how-the-nso-group-enables-state-terror
