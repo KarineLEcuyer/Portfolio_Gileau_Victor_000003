@@ -18,10 +18,10 @@ L’expérience va être présenta par sa description, mise en espace, composant
 
 ## Informations sur l'oeuvre et le lieu d'exposition :
 
-Titre :
+### Titre :
 Contagion de la terreur
 
-Artiste/concepteur :
+### Artiste/concepteur :
 - Laura Poitras (collaboration)
 - Praxis Films (collaboration)
 - Brian Eno (sonification de données)
@@ -30,19 +30,19 @@ Artiste/concepteur :
 - Bethany Edgoose (vidéo)
 - Exposition de Forensic Architecture
 
-Année de réalisation :
+### Année de réalisation :
 2021
 
-Nom de l'exposition ou de l'événement :
+### Nom de l'exposition ou de l'événement :
 Contagion de la terreur
 
-Lieu de mise en exposition :
+### Lieu de mise en exposition :
 1, Place Ville Marie, Montréal
 
-Info sur le lieu :
+### Info sur le lieu :
 C'est au musée d'art contemprain de montréal, plus d'infomration avec ce lien (https://macm.org/collections/a-propos/)
 
-Date de votre visite :
+### Date de votre visite :
 26 mars 2022 à 11h
 
 ## Présentation détaillée de l'oeuvre (description, mise en espace, composantes, éléments)
