@@ -42,6 +42,8 @@ Contagion de la terreur
 ![photo3_contagion_terreur_salle3_texte_info2.JPG](media_oral/photo_salle3/photo3_contagion_terreur_salle3_texte_info2.JPG)
 (photo prise durant visite de l'oeuvre : décrit la deuxième vidéo jouer dans la salle 3)
 
+![photo_contagion_terreur_salle2_texte.JPG](media_oral/photo_salle2/photo_contagion_terreur_salle2_texte.JPG)
+(photo prise durant visite de l'oeuvre : décrit l'oeuvre dans la salle 2)
 
 # Explications sur la mise en espace de l'oeuvre ou du dispositif :
 
