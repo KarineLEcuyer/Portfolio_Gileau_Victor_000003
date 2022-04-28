@@ -79,3 +79,4 @@ Ce que j’aurai changé serait la façon dont l’histoire qu’il voulait repr
 
 - Site de l'oeuvre : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 - Site événement Moebius : https://tim-montmorency.com/2022/index.html
+- photo prise soit sur ce lien (https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html) ou photo prise durant ma visite de l'oeuvre
