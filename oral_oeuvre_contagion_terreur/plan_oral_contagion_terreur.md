@@ -77,4 +77,9 @@ Cette œuvre est similaire au BIAN où c’était sombre Contagion de la terreur
 
 ## Rappel des aspects présentés
 
+Pour conclure, l’œuvre Contagion de la terreur, avait 3 salles en tout comme décrit dans sa description, l’œuvre a été apprécier et justifier, mon expérience a été donner tout comme le lien avec les autres œuvre vue cette session. Une œuvre informative et contemplative, montrant comme nos vies priver ne sont pas respecter et même pour certain leurs droits humains.
+
 ## Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session
+
+
+
