@@ -61,7 +61,13 @@ La salle 3, est très similaire à la première ayant seulement un projecteur mo
 
 ## Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées + Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
 
+J’ai aimé dans l’œuvre la salle 2 ou ce trouve le mur de vers, j’ai aimé le mur de vers car il permettait de voir ce que projetait le projecteur tout en projetant sur le sol et les murs rendant l’expérience encore plus immersive. Ce que je changerais pour mes propres créations serai la durée des vidéos, car l’attention d’une personne est limitée et si les vidéos sont trop longes l’interacteurs va finir par partir étant non intéresser à l’œuvre. Je ferai les vidéos à un maximum de 3 minutes chaque pour donner le plus d’information en le moins de temps possible.  ![image](https://user-images.githubusercontent.com/98968777/165779831-43a94dd7-d203-4234-991a-24a4f220579c.png)
+
+
 ## Liens avec autres oeuvres et expériences multimédias découvertes cette session 
+
+Cette œuvre est similaire au BIAN où c’était sombre Contagion de la terreur est aussi sombre ayant seulement des lumières pour éclairer les textes informatifs. Il n’y a pas beaucoup d’œuvre seulement contemplative et informative qui ont été vu durant la session ce qui permet peu de lien entre l’œuvre Contagion de la terreur et les autres qui ont été vues.![image](https://user-images.githubusercontent.com/98968777/165779881-58e76984-afc6-4ca2-817f-612ade064c7c.png)
+
 
 # Conclusion :
 
