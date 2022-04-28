@@ -1,29 +1,29 @@
 # TITRE DE L'OEUVRE :
 
-## - Space Dreams
-## - Urban Dreams
-## - Nature Dreams
+ - Space Dreams
+ - Urban Dreams
+ - Nature Dreams
 
 # ARTISTE :
 
-## Refik Anadol
+ Refik Anadol
 
 # ANNÉE DE RÉALISATION :
 
-### 2020
+ 2020
 
 # NOM DE L'ÉVÉNEMENT
 
-## Metamorphosis - Biennal d'art numérique (BIAN)
+ Metamorphosis - Biennal d'art numérique (BIAN)
 
 # LIEU DE MISE EN EXPOSITION :
 
-### 2020, rue William, Montréal
-### Arsenal art contemporain
+ 2020, rue William, Montréal
+ Arsenal art contemporain
 
 # DATE DE VOTRE VISITE :
 
-### 09/02/2022
+ 09/02/2022
 
 -------------------------------------------------------------------------------------------
 
