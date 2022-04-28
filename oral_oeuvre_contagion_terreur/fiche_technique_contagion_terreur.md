@@ -74,7 +74,15 @@ La salle 3, est très similaire à la première ayant seulement un projecteur mo
  ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
  Ce que je changerais pour mes propres créations serai la durée des vidéos, car l’attention d’une personne est limitée et si les vidéos sont trop longes l’interacteurs va finir par partir étant non intéresser à l’œuvre. Je ferai les vidéos à un maximum de 3 minutes chaque pour donner le plus d’information en le moins de temps possible.
- 
+
+# Sources :
+
+- Lien MAC : https://macm.org
+- Lien contagion de la terreur : https://macm.org/expositions/contagion-de-la-terreur/
+- Lien compagnie enquête contagion de la terreur : https://forensic-architecture.org
+- Lien enquête contagion de la terreur plus précis : https://forensic-architecture.org/investigation/digital-violence-how-the-nso-group-enables-state-terror
+
+
  # Références
  
 - photographie de l'oeuvre ou du dispositif dans son ensemble
