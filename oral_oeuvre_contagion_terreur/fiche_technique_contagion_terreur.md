@@ -1,22 +1,40 @@
-# TITRE DE L'EUVRE
+# TITRE DE L'OEUVRE :
 
-# NOM DE L'ARTISTE OU DE LA FIRME
+Contagion de la terreur
 
-# ANNÉE DE RÉALISATION
+# NOM DES ARTISTES ET CONCEPTEURS :
 
-# NOM DE L'ÉVÉNEMENT
+- Laura Poitras (collaboration)
+- Praxis Films (collaboration)
+- Brian Eno (sonification de données)
+- Edward Snowden (narrateur)
+- Sarah Sun (son)
+- Bethany Edgoose (vidéo)
+- Exposition de Forensic Architecture
+
+# ANNÉE DE RÉALISATION :
+
+2021
+
+# NOM DE L'ÉVÉNEMENT :
+
+Contagion de la terreur
 
 # LIEU DE MISE EN EXPOSITION
 
+1, Place Ville Marie, Montréal
+
 # DATE DE VOTRE VISITE
 
-# DESCRIPTION DE L'EUVRE
+26 mars 2022
 
-# Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+# DESCRIPTION DE L'EUVRE :
 
-# Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+# Explications sur la mise en espace de l'oeuvre ou du dispositif : (texte à composer)
 
-# Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+# Liste des composantes et techniques de l'oeuvre ou du dispositif : (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+
+# Liste des éléments nécessaires pour la mise en exposition : (ex. : crochets, sac de sable, câbles de soutien...)
 
 #  Expérience vécue :
 
