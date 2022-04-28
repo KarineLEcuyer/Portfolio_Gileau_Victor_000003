@@ -6,7 +6,13 @@ Un plan de votre présentation orale intégré à votre portfolio (plan_oral.md)
 
 ## Quel est l'objectif de votre communication (sujet posé = présentation oeuvre + expérience)
 
+Bonjour je me nomme Victor Gileau, je suis allé voir l’œuvre Contagion de la terreur, une œuvre multimédia informative qui peut-être admirer de façon contemplative. Mon expérience était choquante par les informations qui ont été données dans l’expérience concernant des compagnies et gouvernements ne respectant pas la vie priver des gens en les espionnant avec des moyens informatiques. Il y avait 3 salles dans l’expériences, la première était introductrice montrant des informations sur les actes des compagnies et gouvernements choquants. La deuxième salle montre les victimes et les témoignages par rapport au actes fait sens le respect de la vie priver des gens même sans leur droit humain. La troisième salle montre les actes cruels de gouvernement et organisations fait contre des gens sans prendre soins de leurs droits humains avec l’aide de l’espionnage avec la technologie.
+
+
 ## Quels aspects seront abordés ? (sujet divisé = les différents points du développement)
+
+L’expérience va être présenta par sa description, mise en espace, composantes et éléments. Présentant à quoi ça ressemblait. Je présenterais aussi mon expérience avec l’œuvre. Je présenterai ma critique soutenue par mes justifications. Pour finir, avec le lien que l’œuvre a avec d’autre vue durant la session.
+
 
 # Développement :
 
