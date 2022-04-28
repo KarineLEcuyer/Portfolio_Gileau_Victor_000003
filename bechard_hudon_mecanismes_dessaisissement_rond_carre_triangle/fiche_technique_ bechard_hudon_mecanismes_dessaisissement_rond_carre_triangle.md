@@ -38,6 +38,7 @@ L'œuvre est disposée à 1 mètre au-dessus du sol et est accrochée aux murs. 
 ![oeuvre_triangle_photo.JPG](mecanismes_dessaisissement_rond_carre_triangle_medias/oeuvre_triangle_photo.JPG)
 
 ![photo_plan_oeuvre_carre_cercle_triangle.jpg](mecanismes_dessaisissement_rond_carre_triangle_medias/photo_plan_oeuvre_carre_cercle_triangle.jpg)
+(croqui de l'oeuvre que j'ai fait)
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif :
 
