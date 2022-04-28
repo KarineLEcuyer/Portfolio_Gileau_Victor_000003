@@ -67,7 +67,9 @@ La salle 3, est très similaire à la première ayant seulement un projecteur mo
 
  ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
  
- J’ai aimé dans l’œuvre la salle 2 ou ce trouve le mur de vers, j’ai aimé le mur de vers car il permettait de voir ce que projetait le projecteur tout en projetant sur le sol et les murs rendant l’expérience encore plus immersive.
+ J’ai aimé dans l’œuvre la salle 2 ou ce trouve le mur de vers, j’ai aimé le mur de vers car il permettait de voir ce que projetait le projecteur tout en projetant sur le sol et les murs rendant l’expérience encore plus immersive.  Rendant l'œuvre inspirante, donnant une nouvelle manière de communiquer de l'information a l'interacteur.  L'utilisation de cette technique est donc plus intéressante si on désire communiquer de l'information différemment.
+
+
 
  ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
