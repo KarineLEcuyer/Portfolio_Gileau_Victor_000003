@@ -34,7 +34,7 @@ Contagion de la terreur
 (photo prise durant visite de l'oeuvre : décrit contagion de la terreur)
 
 ![photo_contagion_terreur_salle1_texte.JPG](media_oral/photo_salle1/photo_contagion_terreur_salle1_texte.JPG)
-(photo prise durant visite de l'oeuvre : décrit oeuvre dans la salle 1)
+(photo prise durant visite de l'oeuvre : décrit oeuvre dans la salle 1) 
 
 ![photo2_contagion_terreur_salle3_texte_info.JPG](media_oral/photo_salle3/photo2_contagion_terreur_salle3_texte_info.JPG)
 (photo prise durant visite de l'oeuvre : décrit la première vidéo jouer dans la salle 3)
