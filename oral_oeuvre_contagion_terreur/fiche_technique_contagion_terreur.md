@@ -86,6 +86,8 @@ La salle 3, est à la sortie de la salle 2 qui est son entré aussi. Des informa
 
 La salle 2 présente plusieurs écrans placer dans un certain ordre non imposer, chacun des écrans montre un différant problème ou victime de l’espionnage de vie privée par l’informatique. Donc, un total de 8 histoires plus choquantes les unes que les autres. Chacun des écran présent un cours documentaire ou témoignage sur ce même thème durant de 3 minutes à 5 minutes. De plus, il y a le projecteur qui présente le schéma mouvant et changent des actions d’espionnages informatiques afficher sur les murs et sur le mur de vers au milieu de la salle pour pouvoir le regarder des deux côtés montrant son ampleur et son intimidation envers l’interacteur.
 
+(mettre vidéo)
+
 La salle 3, est très similaire à la première ayant seulement un projecteur montrant une projection, les différences étant que les murs sont blancs, il y a plus de texte sur les murs et le thème du documentaire présenter est diffèrent. Il y est présenté deux histoires une est l’histoire d’élèves ayant voulu s’exprimer et on finit par être arrêter par des moyens loin que légale et l’histoire d’un jeune homme abattu avec 6 balles en 2 seconde après un accident involontaire sur un post militaire dans un pays sous dictature. Des modèles 3D ont été recréé pour montrer les événements de façon plus précise que par image fixe. Pour mon cas c’est la troisième salle qui a eu le plus grand impacte.
 
  ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
