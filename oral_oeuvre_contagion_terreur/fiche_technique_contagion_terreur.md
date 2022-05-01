@@ -64,6 +64,12 @@ La salle 2, est à la gauche de la salle 1 elle est accessible en sortant de la 
 
 La salle 3, est à la sortie de la salle 2 qui est son entré aussi. Des informations sont écrites sur les murs de droite et gauche de l’interacteur une fois que l’interacteur tourne à droite une fois sortie de la salle 2. Les murs sont blancs contrairement aux l’autres salles où ils sont noirs. Il y a des sièges devant la projection a devant l’interacteur une foi avoir tourner a droit après la sortie de la salle 2, devant lui il y a aussi la projection d’un projecteur un peu à l’arrière des sièges. Des au parleurs son situer non loin de la projection.
 
+![photo5_contagion_terreur_salle3_texte_info3.JPG](media_oral/photo_salle3/photo5_contagion_terreur_salle3_texte_info3.JPG)
+(photo prise durant la visite de l'oeuvre : photo exemple texte trouver autour de l'oeuvre de la salle 3)
+
+![photo1_contagion_terreur_salle3_projecteur_projection.JPG](media_oral/photo_salle3/photo1_contagion_terreur_salle3_projecteur_projection.JPG)
+(photo prise durant la visite de l'oeuvre : photo de l'oeuvre dans la salle 3)
+
 # Liste des composantes et techniques de l'oeuvre ou du dispositif : (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
 - 3 Projecteurs
