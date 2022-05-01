@@ -91,13 +91,16 @@ La salle 3, est à la sortie de la salle 2 qui est son entré aussi. Des informa
 - 8 écrans
 
 ![photo15_contagion_terreur_salle2_vue_esemble2.JPG](media_oral/photo_salle2/photo15_contagion_terreur_salle2_vue_esemble2.JPG)
-(photo écrans èa la salle 2)
+(photo écrans de la salle 2)
 
 ![photo3_contagion_terreur_salle2_plan.JPG](media_oral/photo_salle2/photo3_contagion_terreur_salle2_plan.JPG)
 (photo plan écran salle 2)
 
 - capteur de mouvment
 - outil avec écouteurs
+
+![photo_contagion_terreur_moi.JPG](media_oral/photo_moi/photo_contagion_terreur_moi.JPG)
+(photo équipement donner au début de l'experience)
 
 # Liste des éléments nécessaires pour la mise en exposition : (ex. : crochets, sac de sable, câbles de soutien...)
 
