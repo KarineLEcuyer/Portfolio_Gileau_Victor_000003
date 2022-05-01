@@ -77,7 +77,11 @@ La salle 3, est à la sortie de la salle 2 qui est son entré aussi. Des informa
 ![photo1_contagion_terreur_salle3_projecteur_projection.JPG](media_oral/photo_salle3/photo1_contagion_terreur_salle3_projecteur_projection.JPG)
 (photo projecteur salle 3)
 
+![photo1_contagion_terreur_salle2_projecteur.JPG](media_oral/photo_salle2/photo1_contagion_terreur_salle2_projecteur.JPG)
+(photo projecteur salle 2)
 
+![photo2_contagion_terreur_salle2.JPG](media_oral/photo_salle1/photo2_contagion_terreur_salle2.JPG)
+(photo projecteur salle 1)
 
 - Des projecteurs lumières
 - 8 écrans
