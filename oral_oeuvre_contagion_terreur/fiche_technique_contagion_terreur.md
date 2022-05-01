@@ -105,7 +105,15 @@ La salle 3, est à la sortie de la salle 2 qui est son entré aussi. Des informa
 # Liste des éléments nécessaires pour la mise en exposition : (ex. : crochets, sac de sable, câbles de soutien...)
 
 - mur de vitre
+
+![photo5_contagion_terreur_salle2_projection_vitre.JPG](media_oral/photo_salle2/photo5_contagion_terreur_salle2_projection_vitre.JPG)
+(photo prise durant la visite de l'oeuvre : photo de l'oeuvre de la salle 2 du mur de vitre)
+
 - 8 soutiens d'écrans
+
+![photo7_contagion_terreur_salle2_soutien_ecran.JPG](media_oral/photo_salle2/photo7_contagion_terreur_salle2_soutien_ecran.JPG)
+(photo prise durant la visite de l'oeuvre : photo soutien écran salle 2)
+
 - des sièges
 
 #  Expérience vécue :
