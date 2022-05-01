@@ -1,7 +1,3 @@
-CE QUI EST ATTENDU
-Une présentation orale de 8 à 10 minutes appuyée visuellement par votre fiche technique (portfolio)
-Un plan de votre présentation orale intégré à votre portfolio (plan_oral.md) qui respectera la structure suivante:
-
 # Introduction :
 
 ## Quel est l'objectif de votre communication (sujet posé = présentation oeuvre + expérience)
