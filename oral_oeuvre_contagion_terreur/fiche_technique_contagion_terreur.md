@@ -132,9 +132,11 @@ La salle 2 présente plusieurs écrans placer dans un certain ordre non imposer,
 
 La salle 3, est très similaire à la première ayant seulement un projecteur montrant une projection, les différences étant que les murs sont blancs, il y a plus de texte sur les murs et le thème du documentaire présenter est diffèrent. Il y est présenté deux histoires une est l’histoire d’élèves ayant voulu s’exprimer et on finit par être arrêter par des moyens loin que légale et l’histoire d’un jeune homme abattu avec 6 balles en 2 seconde après un accident involontaire sur un post militaire dans un pays sous dictature. Des modèles 3D ont été recréé pour montrer les événements de façon plus précise que par image fixe. Pour mon cas c’est la troisième salle qui a eu le plus grand impacte.
 
+Lien enquête contagion de la terreur plus précis : https://forensic-architecture.org/investigation/digital-violence-how-the-nso-group-enables-state-terror
+
  ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
  
- J’ai aimé dans l’œuvre la salle 2 ou ce trouve le mur de vers, j’ai aimé le mur de vers car il permettait de voir ce que projetait le projecteur tout en projetant sur le sol et les murs rendant l’expérience encore plus immersive.  Rendant l'œuvre inspirante, donnant une nouvelle manière de communiquer de l'information a l'interacteur.  L'utilisation de cette technique est donc plus intéressante si on désire communiquer de l'information différemment.
+ J’ai aimé dans l’œuvre la salle 2 ou ce trouve le mur de vers, j’ai aimé le mur de vers car il permettait de voir ce que projetait le projecteur tout en projetant sur le sol et les murs rendant l’expérience encore plus immersive.  Rendant l'œuvre inspirante, donnant une nouvelle manière de communiquer de l'information a l'interacteur. L'utilisation de cette technique est donc plus intéressante si on désire communiquer de l'information différemment.
 
 ![photo5_contagion_terreur_salle2_projection_vitre.JPG](media_oral/photo_salle2/photo5_contagion_terreur_salle2_projection_vitre.JPG)
 (photo prise durant la visite de l'oeuvre : photo de l'oeuvre de la salle 2 du mur de vitre)
