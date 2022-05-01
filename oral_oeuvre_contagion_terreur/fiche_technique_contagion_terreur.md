@@ -84,6 +84,10 @@ La salle 3, est à la sortie de la salle 2 qui est son entré aussi. Des informa
 (photo projecteur salle 1)
 
 - Des projecteurs lumières
+
+![photo2_contagion_terreur_salle2_eclarage.JPG](media_oral/photo_salle2/photo2_contagion_terreur_salle2_eclarage.JPG)
+(photo éclerage salle 2)
+
 - 8 écrans
 - capteur de mouvment
 - outil avec écouteurs
