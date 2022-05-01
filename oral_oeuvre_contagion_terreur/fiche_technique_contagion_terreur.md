@@ -132,11 +132,18 @@ La salle 3, est très similaire à la première ayant seulement un projecteur mo
  
  J’ai aimé dans l’œuvre la salle 2 ou ce trouve le mur de vers, j’ai aimé le mur de vers car il permettait de voir ce que projetait le projecteur tout en projetant sur le sol et les murs rendant l’expérience encore plus immersive.  Rendant l'œuvre inspirante, donnant une nouvelle manière de communiquer de l'information a l'interacteur.  L'utilisation de cette technique est donc plus intéressante si on désire communiquer de l'information différemment.
 
-
+![photo5_contagion_terreur_salle2_projection_vitre.JPG](media_oral/photo_salle2/photo5_contagion_terreur_salle2_projection_vitre.JPG)
+(photo prise durant la visite de l'oeuvre : photo de l'oeuvre de la salle 2 du mur de vitre)
 
  ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
  Ce que je changerais pour mes propres créations serai la durée des vidéos, car l’attention d’une personne est limitée et si les vidéos sont trop longes l’interacteurs va finir par partir étant non intéresser à l’œuvre. Je ferai les vidéos à un maximum de 3 minutes chaque pour donner le plus d’information en le moins de temps possible.
+
+![photo4_contagion_terreur_salle2_ecran_reportage_NBC.JPG](media_oral/photo_salle2/photo4_contagion_terreur_salle2_ecran_reportage_NBC.JPG)
+(photo prise durant la visite de l'oeuvre : photo écran salle 2)
+
+![photo3_contagion_terreur_salle2_ecran_schema.JPG](media_oral/photo_salle2/photo3_contagion_terreur_salle2_ecran_schema.JPG)
+(photo prise durant la visite de l'oeuvre : photo écran salle 2)
 
 # Sources :
 
