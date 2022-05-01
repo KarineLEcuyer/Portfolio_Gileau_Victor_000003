@@ -70,6 +70,10 @@ La salle 3, est à la sortie de la salle 2 qui est son entré aussi. Des informa
 ![photo1_contagion_terreur_salle3_projecteur_projection.JPG](media_oral/photo_salle3/photo1_contagion_terreur_salle3_projecteur_projection.JPG)
 (photo prise durant la visite de l'oeuvre : photo de l'oeuvre dans la salle 3)
 
+
+![photo_croquie_oeuvre_contagion_terreur.JPG](media_oral/photo_croquis/photo_croquie_oeuvre_contagion_terreur.JPG)
+(photo croquis de l'oeuvre Contagion de la terreur)
+
 # Liste des composantes et techniques de l'oeuvre ou du dispositif : (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
 - 3 Projecteurs
